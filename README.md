@@ -1,8 +1,8 @@
 ## Hey! I'm Vinicius Trindade
 
 - 📚 I’m currently Studying at Federal University of Campina Grande
-- 🌱 I’m currently learning back-end development with the PAN Academy group
-- 💻 As a hobby, i enjoy studing front-end with react
+- 🌱 I’m currently working for Synchro Soluções Fiscais
+- 💻 As a hobby, i enjoy deepening my study in front-end with react
 - 📫 How to reach me: viniciustrindader@gmail.com
 ##
 
