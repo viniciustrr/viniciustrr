@@ -1,8 +1,7 @@
 ## Hey! I'm Vinicius Trindade
 
 - 📚 I’m currently Studying at Federal University of Campina Grande
-- 🌱 I’m currently working for Synchro Soluções Fiscais
-- 💻 As a hobby, i enjoy deepening my study in front-end with react
+- 🌱 I’m currently working for Deco.cx
 - 📫 How to reach me: viniciustrindader@gmail.com
 ##
 
