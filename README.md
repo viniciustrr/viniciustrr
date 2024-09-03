@@ -1,6 +1,4 @@
 ## Hey! I'm Vinicius Trindade
-
-- 📚 I’m currently Studying at Federal University of Campina Grande
 - 🌱 I’m currently working for Deco.cx
 - 📫 How to reach me: viniciustrindader@gmail.com
 ##
